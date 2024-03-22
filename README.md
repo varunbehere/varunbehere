@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Varun Behere</h1>
-<h3 align="center">Exploring</h3>
+<h3 align="center">Glad to see you here !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunbehere&label=Profile%20views&color=0e75b6&style=flat" alt="varunbehere" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Developement technologies, Data Structures and Algorithms**
 
-- 💬 Ask me about anything **, happy to help**
+- 💬 Ask me about anything**, always happy to help**
 
 - 📫 How to reach me **varunbehere@gmail.com or LinkedIn**
 
