@@ -7,7 +7,7 @@
 
 - 💬 Ask me about anything **, happy to help**
 
-- 📫 How to reach me **varunbehere@gmail.com or LinkedIn**
+- 📫 To reach, mail me on **varunbehere@gmail.com or LinkedIn**
 
 - ⚡ Fun fact **Always looking to learn new !**
 
